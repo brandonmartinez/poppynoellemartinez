@@ -1,8 +1,8 @@
 {
-  "name": "reserved-domain-placeholder",
+  "name": "poppynoellemartinez",
   "version": "1.0.0",
   "private": true,
-  "description": "Single-page holding site for {{FULL_NAME}} — www.{{DOMAIN}}",
+  "description": "Single-page holding site for Poppy Martinez — www.poppynoellemartinez.com",
   "license": "MIT",
   "scripts": {
     "css": "tailwindcss -i ./styles/tailwind.css -o ./src/styles.css",
